@@ -3,11 +3,13 @@
 <p align="center">
   <strong>Senior Security Engineer | Bug Bounty Hunter | Security Researcher</strong>
 </p>
-
 <p align="center">
   <a href="https://blog.nithissh.xyz"><img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog"></a>
-  <a href="mailto:nithissh.s@outlook.in"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/nit_hissh"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/nithisshs"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:realnits@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
 </p>
+
 
 ---
 
